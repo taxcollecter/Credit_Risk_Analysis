@@ -7,42 +7,54 @@ Using a credit card credit dataset from LendingClub, we leveraged a series of sa
 ![Balanced Random Forest Classifier.](https://github.com/taxcollecter/Credit_Risk_Analysis/blob/2e2690b17cd806494cfe9a543b1482e34be3db2c/Resources/Balanced%20Random%20Forest%20Classifier.png)
 
 --Balanced Acc: .78
+
 --Precision: .99
+
 --Recall: .91
 
 ### Combo Sampling
 ![Combo Sampling.](https://github.com/taxcollecter/Credit_Risk_Analysis/blob/2e2690b17cd806494cfe9a543b1482e34be3db2c/Resources/Combo%20Sampling.png)
 
 --Balanced Acc: .62
+
 --Precision: .99
+
 --Recall: .54
 
 ### Easy Ensemble
 ![Easy Ensemble.](https://github.com/taxcollecter/Credit_Risk_Analysis/blob/2e2690b17cd806494cfe9a543b1482e34be3db2c/Resources/Easy%20Ensemble.png)
 
 --Balanced Acc: .93
+
 --Precision: .99
+
 --Recall: .94
 
 ### Naive Random Oversampling
 ![Naive Random Oversampling.](https://github.com/taxcollecter/Credit_Risk_Analysis/blob/2e2690b17cd806494cfe9a543b1482e34be3db2c/Resources/Naive%20Random%20Oversampling.png)
 
 --Balanced Acc: .64
+
 --Precision: .99
+
 --Recall: .65
 
 ### SMOTE Oversampling
 ![SMOTE Oversampling.](https://github.com/taxcollecter/Credit_Risk_Analysis/blob/2e2690b17cd806494cfe9a543b1482e34be3db2c/Resources/SMOTE%20Oversampling.png)
 
 --Balanced Acc: .63
+
 --Precision: .99
+
 --Recall: .64
 
 ### Undersampling
 ![Undersampling.](https://github.com/taxcollecter/Credit_Risk_Analysis/blob/2e2690b17cd806494cfe9a543b1482e34be3db2c/Resources/Undersampling.png)
 
 --Balanced Acc: .50
+
 --Precision: .99
+
 --Recall: .44
 
 ## Summary
